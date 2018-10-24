@@ -1,5 +1,5 @@
 # ImageInpainting
-![avatar](http://baidu.com/pic/doge.png)
+![avatar](https://github.com/ZijianHu/ImageInpainting/blob/master/result/orgin.png)
 这个项目包括了4种方法：
 1. DL2016:
     
@@ -20,4 +20,5 @@
 
 4. NS:
     Method: Navier-Stokes, Fluid Dynamics, and Image and Video Inpainting (NS-based)
+
     Links: http://www.tecn.upf.es/~mbertalmio/final-cvpr.pdf
